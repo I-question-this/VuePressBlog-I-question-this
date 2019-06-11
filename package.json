@@ -1,0 +1,12 @@
+{
+  "name": "vuepressblog-i-question-this",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
