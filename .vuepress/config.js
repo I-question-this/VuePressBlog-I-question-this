@@ -1,9 +1,8 @@
 module.exports = {
-  title: 'Tyler Westland',
+  title: 'Tyler T. Westland',
   themeConfig: {
     sidebar: [
       '/',
-      '/projects/'
     ]
   }
 }
